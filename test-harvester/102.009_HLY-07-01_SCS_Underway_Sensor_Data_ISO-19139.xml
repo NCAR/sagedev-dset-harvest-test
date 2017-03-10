@@ -549,6 +549,9 @@
                </gmd:keyword>
             </gmd:MD_Keywords>
          </gmd:descriptiveKeywords>
+         <gmd:language>
+            <gco:CharacterString>eng; USA</gco:CharacterString>
+         </gmd:language>
          <gmd:topicCategory>
             <gmd:MD_TopicCategoryCode>climatologyMeteorologyAtmosphere</gmd:MD_TopicCategoryCode>
          </gmd:topicCategory>
