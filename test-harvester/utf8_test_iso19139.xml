@@ -57,9 +57,9 @@
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification uuid="Fuerza Aérea Argentina, Comando de Regiones Aéreas, Servicio Meteorológico Nacional">
             <gmd:citation>
-                <gmd:CI_Citation uuid="Normales climatológicas, 1931-1960">
+                <gmd:CI_Citation uuid="Normales climatológicas">
                     <gmd:title>
-                        <gco:CharacterString>Normales climatológicas, 1931-1960</gco:CharacterString>
+                        <gco:CharacterString>Normales climatológicas</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
