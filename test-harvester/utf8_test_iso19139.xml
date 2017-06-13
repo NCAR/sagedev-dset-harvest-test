@@ -5,7 +5,7 @@
     xmlns:gts="http://www.isotc211.org/2005/gts/"
     xmlns:xlink="http://www.w3.org/1999/xlink/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <gmd:fileIdentifier>
-        <gco:CharacterString>20320113229.01513</gco:CharacterString>
+        <gco:CharacterString>UNIQUE.203215a0113229.01513</gco:CharacterString>
     </gmd:fileIdentifier>
     <gmd:language>
         <gmd:LanguageCode
@@ -43,7 +43,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:Date>2015-03-20</gco:Date>
+        <gco:Date>2015-03-21</gco:Date>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -57,9 +57,9 @@
     <gmd:identificationInfo>
         <gmd:MD_DataIdentification uuid="Fuerza Aérea Argentina, Comando de Regiones Aéreas, Servicio Meteorológico Nacional">
             <gmd:citation>
-                <gmd:CI_Citation uuid="Normales climatológicas">
+                <gmd:CI_Citation uuid="Mormales climatológicas">
                     <gmd:title>
-                        <gco:CharacterString>Normales climatológicas</gco:CharacterString>
+                        <gco:CharacterString>Mormales climatológicas</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
