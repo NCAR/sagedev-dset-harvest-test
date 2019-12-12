@@ -62,7 +62,7 @@
     </gmd:CI_ResponsibleParty>
   </gmd:contact>
   <gmd:dateStamp>
-    <gco:DateTime>2019-01-09T19:56:30Z</gco:DateTime>
+    <gco:DateTime>2019-02-09T19:56:30Z</gco:DateTime>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
     <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
@@ -831,6 +831,13 @@
               </gmd:citedResponsibleParty>
             </gmd:CI_Citation>
           </gmd:aggregateDataSetName>
+          <gmd:aggregateDataSetIdentifier>
+            <gmd:MD_Identifier>
+                  <gmd:code>
+                    <gco:CharacterString>edu.ucar.eol::102.000</gco:CharacterString>
+                  </gmd:code>
+                </gmd:MD_Identifier>
+          </gmd:aggregateDataSetIdentifier>
           <gmd:associationType>
             <gmd:DS_AssociationTypeCode codeList="./resources/codeList.xml#DS_AssociationTypeCode" codeListValue="largerWorkCitation">largerWorkCitation</gmd:DS_AssociationTypeCode>
           </gmd:associationType>
