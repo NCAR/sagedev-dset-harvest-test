@@ -45,7 +45,7 @@
         </gmd:CI_ResponsibleParty>
     </gmd:contact>
     <gmd:dateStamp>
-        <gco:DateTime>2018-04-04T09:39:39</gco:DateTime>
+        <gco:DateTime>2018-04-05T09:39:39</gco:DateTime>
     </gmd:dateStamp>
     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115</gco:CharacterString>
@@ -385,12 +385,12 @@
                                 
 To delete the record, it should be sufficient to change the name of the file to no longer end in ".xml", e.g. make the file name "CollectionDummyRecord.xml.IGNORE".   When this change is pushed in the WAF, CKAN should perform a delete operation on the collection.
 
-*NOTE*:  Changing the GUID of an already-harvested collection record will result in a database error on re-harvest.   
+__NOTE__:  Changing the GUID of an already-harvested collection record will result in a database error on re-harvest.   
 
-To change the GUID: 
-# First change the file ending and push this change to github.
-# Wait for the record to be deleted from the database.   
-# Update the GUID, restore the file ending to *.xml, and push this change to github.
+__To change the GUID__: 
+* First change the file ending and push this change to github.
+* Wait for the record to be deleted from the database.   
+* Update the GUID, restore the file ending to *.xml, and push this change to github.
 </gco:CharacterString>
             </gmd:abstract>
             <gmd:pointOfContact>
